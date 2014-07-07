@@ -1,41 +1,16 @@
-starter-kit
-===========
+# Ember Reading List App
 
-A starter kit for Ember
+Based on the [Warming Up with Ember](https://www.codeschool.com/code_tv/soup-to-bits-warming-up-with-ember) screencast by [CodeSchool](http://codeschool.com).
 
-Your Ember.js project is almost ready! Here's how to get started:
+The original reference codebase can be found (HERE)(https://github.com/codeschool/EmberReadinglist).
 
-- Start writing your app in js/app.js.
+## Branches
 
-- Describe your application HTML in index.html.
+The *Firebase* branch is an attempt to implement (Firebase)(http://firebase.io) as the data store, rather than rely on fixtures.
 
-- During development, you can link to js/libs/ember-*.js to get the
-  unminified version of Ember.js.
+## Next Steps
 
-- Add CSS to css/style.css
+1. Implement Firebase as data store.
+2. Re-build the project using the most recent version of (Ember-CLI)[http://iamstef.net/ember-cli/].
 
-- Open index.html in your browser
-
-Tests
-=====
-
-This starter kit comes with an integration test sample, written for QUnit runner. 
-
-You can run the tests by opening the `index.html?test` page in your browser.
-
-The test is located in the `tests/tests.js` file. You can see how such an 
-integration test should be written, using QUnit assertions and ember-testing helpers.
-
-For more information about ember-testing package see [ember-testing](http://emberjs.com/guides/testing/integration/)
-
-For more information about the QUnit testing framework, see [QUnit](http://qunitjs.com/)
-
-Contact
-====
-
-www.emberjs.com
-=======
-ember-reading-list
-==================
-
-A reading list site using Ember.js and based on the Warming Up with Ember screencast by CodeSchool.
+## Contributions
