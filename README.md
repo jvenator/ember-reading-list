@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 starter-kit
 ===========
 
@@ -40,4 +39,3 @@ ember-reading-list
 ==================
 
 A reading list site using Ember.js and based on the Warming Up with Ember screencast by CodeSchool.
->>>>>>> ec86d02c736f7eb5caba143b505bf73e1cfceea1
