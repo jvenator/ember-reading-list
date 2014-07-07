@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "title": "Mindstorms",
+      "author": "Seymour A. Papert",
+      "review": "Although this book focuses on the cognitive advantages to having children use technology from an early age, it is also an in depth look at how people can learn for themseves. As someone who was often distracted and bored at times during school, Mindstorms highlights some of the reasoning behind that feeling and what we can do as teachers to help minimize it.",
+      "rating": 3,
+      "amazon_id": "0465046746",
+      "genre": 3
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "review": "Amazon.com Review - William Golding's classic tale about a group of English schoolboys who are plane-wrecked on a deserted island is just as chilling and relevant today as when it was first published in 1954. At first, the stranded boys cooperate, attempting to gather food, make shelters, and maintain signal fires. Overseeing their efforts are Ralph, 'the boy with fair hair,' and Piggy, Ralph's chubby, wisdom-dispensing sidekick whose thick spectacles come in handy for lighting fires. Although Ralph tries to impose order and delegate responsibility, there are many in their number who would rather swim, play, or hunt the island's wild pig population. Soon Ralph's rules are being ignored or challenged outright. His fiercest antagonist is Jack, the redheaded leader of the pig hunters, who manages to lure away many of the boys to join his band of painted savages. The situation deteriorates as the trappings of civilization continue to fall away, until Ralph discovers that instead of being hunters, he and Piggy have become the hunted: 'He forgot his words, his hunger and thirst, and became fear; hopeless fear on flying feet.'' Golding's gripping novel explores the boundary between human reason and animal instinct, all on the brutal playing field of adolescent competition. --Jennifer Hubert --This text refers to the Paperback edition.",
+      "rating": 5,
+      "amazon_id": "0399501487"
+    }
+  ]
+}
